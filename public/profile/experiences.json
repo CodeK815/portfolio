@@ -1,0 +1,44 @@
+{
+    "experiences": [
+        {
+            "title": "FullStack Developer",
+            "subtitle": "upwork",
+            "workType": "Full-time",
+            "workDescription": [
+                "Designed and Developed 2 kinds of Smart Contract architecture for implementing scalable, secure and maintainable software solutions, generating more profitably.", 
+                "Demonstrated Existing DEX protocol on the Solana chain, achieving a 20% reduction in the processing fee of standard trading.",
+                "Presented in creating a public Proof of History blockchain by using cosmos SDK.",
+                "Coordinated closed with 3 developers to create NFT Marketplace using Solidity and React.js."
+            ],
+            "dateText": "11/2022 – Present"
+        },
+        {
+            "title": "Blockchain Developer",
+            "subtitle": "The Kryptomon Company Ltd",
+            "workType": "Internship",
+            "workDescription": [
+                "Led in developing 3 tools that became the foundation for the intersection between Web3 and FinTech.",
+                "Implemented Breed smart contracts by adding a particular hash system, attracting 5% more clients than the previous quarter.",
+                "Coordinated with the team to create a NFT item marketplace in an Agile/Scrum environment, increasing development speed and quality by 20%.",
+                "Guided 2 junior developers to create a structured staking platform by using web3 tech.",
+                "Chaired daily Scrum meetings to discuss each goal and blocker for a day."
+            ],
+            "dateText": "11/2021 – 10/2022"
+        },
+        {
+            "title": "App Developer",
+            "subtitle": "ABC Pvt Ltd",
+            "workType": "Freelance",
+            "workDescription": [
+                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
+                "Done bcd work.",
+                "Led in developing 3 tools that became the foundation for the intersection between Web3 and FinTech.",
+                "Implemented Breed smart contracts by adding a particular hash system, attracting 5% more clients than the previous quarter.",
+                "Coordinated with the team to create a NFT item marketplace in an Agile/Scrum environment, increasing development speed and quality by 20%.",
+                "Guided 2 junior developers to create a structured staking platform by using web3 tech.",
+                "Chaired daily Scrum meetings to discuss each goal and blocker for a day."
+            ],
+            "dateText": "09/2020 – 11/2021"
+        }
+    ]
+}
